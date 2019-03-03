@@ -1,5 +1,4 @@
 # drl-project
-This is a joint work with Chaosheng Dong, Ibrahim El Shar, and Tian Tong.
 
 We work in the never-ending learning gym environment, 
 which is an endless gridworld with an agent collecting valuable items and tools. 
